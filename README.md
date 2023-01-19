@@ -1,2 +1,2 @@
 # HTML--coursera
-courser html course
+coursera html course
